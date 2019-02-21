@@ -1,0 +1,1071 @@
+<html class="gr__w2prod_sis_yorku_ca"><head>
+	<meta name="generator" content="WebObjects 5">
+	<title>York University Courses Website - Course View List</title>
+	<link rel="stylesheet" type="text/css" media="all" href="https://headers.apps01.yorku.ca/yorkweb/css/styles.css">
+	<link rel="stylesheet" href="https://passportyork.yorku.ca/yorkweb/standards/web/css/main.css">
+	<meta name="ROBOTS" content="NOFOLLOW">
+	<link rel="SHORTCUT ICON" href="/favicon.ico">
+	<script async="" src="https://www.google-analytics.com/analytics.js"></script><script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-59339533-3', 'auto');  ga('send', 'pageview');</script><style type="text/css">
+:root #adsbox
+{ display: none !important; }</style>
+<style type="text/css">
+:root *[osn5ljp][hidden] { display: none !important; }</style></head>
+<body bgcolor="#FFFFFF" data-gr-c-s-loaded="true" cz-shortcut-listen="true" style="">
+
+<table width="960" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td colspan="2">
+
+<div class="yib11skipnav"><a href="#content">Skip to main content</a></div>
+
+<div id="yib11banner">
+
+	<div id="yib11yorklogo"><a href="http://www.yorku.ca/"><img border="0" src="http://www.yorku.ca/yorkweb/standards/images/yib11yorklogo.gif" alt="York University - Redefine the Possible" width="115" height="50"></a></div>
+
+	<div id="yib11globalnava">
+    	<a href="http://www.glendon.yorku.ca/">Glendon Campus</a>
+        <a href="http://www.yorku.ca/alumni/">Alumni</a>
+        <a href="http://www.yorku.ca/research/">Research</a>
+        <a href="http://www.yorku.ca/development/">Giving to York</a>
+        <a href="http://news.yorku.ca/">Media</a>
+        <a href="http://www.yorku.ca/web/careers_at_yorku/">Careers</a>
+        <a href="http://www.yorku.ca/yorkweb/international.htm">International</a>
+        <span class="yib11globalnavalast"><a href="http://www.yorkulions.ca/">York U Lions</a></span>
+        <span class="yib11accessibility"><a href="http://www.yorku.ca/web/accessibility.html">Accessibility</a></span>
+    </div>
+
+    <div id="yib11globalnavb">
+        <a href="http://futurestudents.yorku.ca/">Future Students</a>
+        <a href="http://www.yorku.ca/yorkweb/cs.htm">Current Students</a>
+        <a href="http://www.yorku.ca/yorkweb/fs.htm">Faculty and Staff</a>
+        <form method="get" action="http://search.yorku.ca/search">
+ 			<input maxlength="255" onclick="if (!this.cleared) { this.cleared = true; this.value = ''; }" name="q" id="yib11searchfield" type="text" value="Search yorku.ca">
+            <input border="0" src="http://www.yorku.ca/yorkweb/standards/images/yib11searchbutton.gif" alt="GO" name="btnG" width="30" id="yib11searchbutton" type="image" height="18">
+ 			<input name="client" type="hidden" value="Internal">
+ 			<input name="proxystylesheet" type="hidden" value="Internal">
+ 			<input name="site" type="hidden" value="default_collection">
+ 			<input name="output" type="hidden" value="xml_no_dtd">
+		</form>
+     </div>
+
+	<div id="yib11internalnav">
+        <a href="http://www.yorku.ca/web/about_yorku/faculties.html">Faculties</a>
+        <a href="http://www.library.yorku.ca/">Libraries</a>
+        <a href="http://www.yorku.ca/web/about_yorku/organization.html">York U Organization</a>
+        <a href="http://www.yorku.ca/yorkatlas">Directory</a>
+        <a href="http://www.yorku.ca/web/site-index.html">Site Index</a>
+        <a href="http://www.yorku.ca/web/futurestudents/map/" class="yib11internalnavlast">Campus Maps</a>
+    </div>
+
+</div>
+
+</td>
+	</tr>
+	<tr>
+		<td p="" valign="top" bgcolor="#dddddd" class="bodytext">
+			<table width="170" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td>
+
+							<a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.1.1"><img alt="York Course Web Site" src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/title.gif" border="0"></a>
+
+
+					</td>
+				</tr>
+				<tr>
+					<td><img alt="Current Course Search By ... " src="/WebObjects/cdm.woa/Contents/WebServerResources/searchby.gif" width="170" height="59"></td>
+				</tr>
+				<tr>
+					<td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.8.0"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/subject_N.gif" alt="Search By Subject" border="0"></a></td>
+				</tr>
+				<tr>
+					<td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.11.0"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/term_N.gif" alt="Search By Term" border="0"></a></td>
+				</tr>
+				<tr>
+					<td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.14.0"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/title_N.gif" alt="Search By Course Title" border="0"></a></td>
+				</tr>
+				<tr>
+					<td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.16.2.0"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/instructor_N.gif" alt="Search By Instructor" border="0"></a></td>
+				</tr>
+				<tr>
+					<td></td>
+				</tr>
+				<tr>
+					<td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.19.0"><img alt="General Education Course" border="0" src="/WebObjects/cdm.woa/Contents/WebServerResources/gen_edu_N.gif" width="170" height="29"></a></td>
+				</tr>
+				<tr>
+					<td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.22.0"><img alt="eLearn Course Search" border="0" src="/WebObjects/cdm.woa/Contents/WebServerResources/distance_N.gif" width="170" height="18"></a></td>
+				</tr>
+				<tr>
+					<td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.25.0"><img alt="After 6pm Course Search" border="0" src="/WebObjects/cdm.woa/Contents/WebServerResources/after6pm_N.gif" width="170" height="18"></a></td>
+				</tr>
+				<tr>
+					<td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.28.0"><img alt="Weekend Course Search" border="0" src="/WebObjects/cdm.woa/Contents/WebServerResources/weekend_N.gif" width="170" height="18"></a></td>
+				</tr>
+				<tr>
+					<td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.31.0"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/advanced_N.gif" alt="Advanced Search" border="0"></a></td>
+				</tr>
+				<tr>
+					<td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.34.0"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/activecourse_N.gif" alt="View Active Course Timetables" border="0"></a></td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr><td><img alt="My Class Schedule ... " src="/WebObjects/cdm.woa/Contents/WebServerResources/class_sched_header.gif" width="170" height="18"></td></tr><tr>
+					<td><a href="https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm.woa/wa/DirectAction/cds"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/timetable_N.gif" alt="Plot My Timetable" border="0"></a></td>
+				</tr>
+				<tr>
+					<td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.42.0"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/Plothelp_N.gif" alt="Timetable Help" border="0"></a></td>
+				</tr>
+				<tr>
+					<td><img alt="Exam Information ..." src="/WebObjects/cdm.woa/Contents/WebServerResources/examinformation.gif" width="170" height="37"></td>
+				</tr>
+				<tr>
+					<td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.47.0"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/exam_N.gif" alt="Search Current Exam Schedule" border="0"></a></td>
+				</tr>
+				<tr>
+					<td><a href="https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm.woa/wa/DirectAction/cde"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/myexams_N.gif" alt="My Exam Schedule" border="0"></a></td></tr><tr><td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.53.0"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/conflicts_N.gif" alt="Exam Conflicts" border="0"></a></td></tr><tr><td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.56.0"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/building_N.gif" alt="Building Acronyms" border="0"></a></td></tr><tr><td><a target="RO" href="https://myacademicrecord.students.yorku.ca/deferred-standing"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/deferred_N.gif" alt="Deferred Exam : FAQ" border="0"></a></td></tr><tr><td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.61.0"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/religious_N.gif" alt="Religious Obersevances" border="0"></a></td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td><img alt="Course Search By ... " src="/WebObjects/cdm.woa/Contents/WebServerResources/historicalsearch.gif" width="170" height="18"></td>
+				</tr>
+				<tr>
+					<td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.66.0"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/facSubNum_N.gif" alt="Historical Course Search By Faculty, Subject, Number" border="0"></a></td>
+				</tr>
+				<tr>
+					<td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.69.0"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/crstitle_N.gif" alt="Historical Course Search By Title" border="0"></a></td>
+				</tr>
+
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td><img alt="Course Evaluation Search" src="/WebObjects/cdm.woa/Contents/WebServerResources/courseEvaluationSearch.gif" width="170" height="18"></td>
+					</tr>
+					<tr>
+						<td><a target="DE" href="https://courseevaluations.yorku.ca/studenthelp"><img alt="Course Evaluation Search FAQ" src="/WebObjects/cdm.woa/Contents/WebServerResources/courseEvaluationSearchFAQ_N.gif" width="170" height="18"></a></td>
+					</tr>
+					<tr>
+						<td><a target="DE" href="https://onceciq.uit.yorku.ca/"><img alt="Course Evaluation Search Results" src="/WebObjects/cdm.woa/Contents/WebServerResources/courseEvaluationSearchResults_N.gif" width="170" height="36"></a></td>
+					</tr>
+
+				<tr>
+					<td><img alt="Course Information ..." src="/WebObjects/cdm.woa/Contents/WebServerResources/Course_Info_Header.gif" width="170" height="36"></td>
+				</tr>
+				<tr>
+					<td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.76.0"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/faq_N.gif" alt="FAQ" border="0"></a></td>
+				</tr>
+				<tr>
+					<td><a target="RO" href="https://registrar.yorku.ca/enrol/dates/"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/dates_N.gif" alt="Important Dates" border="0"></a></td>
+				</tr>
+				<tr><td><a target="RO" href="https://registrar.yorku.ca/enrol/guide/"><img alt="Lecture Schedules" border="0" src="/WebObjects/cdm.woa/Contents/WebServerResources/enrolguides_N.gif" width="170" height="36"></a></td></tr><tr>
+					<td><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.4.82"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/timetables_N.gif" alt="Lecture Schedules" border="0"></a></td>
+				</tr>
+				<tr>
+					<td><a target="RO" href="https://registrar.yorku.ca/accal/"><img src="https://w2prod.sis.yorku.ca/WebObjects/cdm.woa/Contents/WebServerResources/calendars_N.gif" alt="University Calendars" border="0"></a></td>
+				</tr>
+				<tr><td><a target="RO" href="https://registrar.yorku.ca/enrol/guide/disclaimer"><img alt="Disclaimer" border="0" src="/WebObjects/cdm.woa/Contents/WebServerResources/disclaimer_N.gif" width="170" height="18"></a></td></tr>
+				<tr>
+					<td>&nbsp;<img src="/WebObjects/cdm.woa/Contents/WebServerResources/bottom_spacer.gif" width="170" height="45"></td>
+				</tr>
+			</tbody></table>
+
+
+		</td>
+		<td valign="TOP">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td>
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			              <tbody><tr>
+					          <td width="443" background="https://w2prod.sis.yorku.ca/WebObjects/YorkUimages/banner_bg.gif">
+								<img src="/WebObjects/cdm.woa/Contents/WebServerResources/searchcurrcrs.png" width="443" height="43">
+							   </td>
+					          <td background="https://w2prod.sis.yorku.ca/WebObjects/YorkUimages/banner_bg.gif">&nbsp;</td>
+					       </tr>
+				         </tbody></table>
+  					</td>
+ 				</tr>
+				<tr>
+					<td>
+						<table width="100%" border="0" cellspacing="0" cellpadding="10">
+							<tbody><tr>
+								<td><table width="100%" border="0" cellspacing="0" cellpadding="10"><tbody><tr><td><p class="heading"><font color="#CC0000">Current Courses Search Results</font></p></td><td><div align="right"><script language="JavaScript">
+function Get_Cookie(name) {
+    var start = document.cookie.indexOf(name+"=");
+    var len = start+name.length+1;
+    if ((!start) && (name != document.cookie.substring(0,name.length))) return null;
+    if (start < 14) return null;
+    var end = document.cookie.indexOf(";",len);
+    if (end < 14) end = document.cookie.length;
+    return unescape(document.cookie.substring(len,end));
+}
+var crumb = unescape(document.cookie);
+if (crumb.indexOf('mayaauth') != -1 || crumb.indexOf('mayaanyoneauth') != -1 ) {
+  document.write('<TABLE width="200" cellpadding="5" cellspacing="0" border="0"><TR><TD><P><a href="https://passportyork.yorku.ca/ppylogin/ppylogout"><IMG src="https://w2prod.sis.yorku.ca/WebObjects/YorkUimages/logout.gif" width="154" height="45" border="0"></a><BR><SPAN class="smallbodytext"><A href="http://www.yorku.ca/yorkweb/currentstudents/ppystudents.html">All About Passport York</A></SPAN></P></TD></TR></TABLE>')
+} else {
+document.write('<TABLE border="0"><TR><TD><img src="https://w2prod.sis.yorku.ca/WebObjects/YorkUimages/passportyorksmall2.gif" width="73" height="42"></TD><TD><B>New Student?</B><BR><a href="http://www.yorku.ca/yorkweb/currentstudents/ppystudents.html">All about Passport&nbsp;York</a></TD></TR></TABLE>')
+}
+</script><table width="200" cellpadding="5" cellspacing="0" border="0"><tbody><tr><td><p><a href="https://passportyork.yorku.ca/ppylogin/ppylogout"><img src="https://w2prod.sis.yorku.ca/WebObjects/YorkUimages/logout.gif" width="154" height="45" border="0"></a><br><span class="smallbodytext"><a href="http://www.yorku.ca/yorkweb/currentstudents/ppystudents.html">All About Passport York</a></span></p></td></tr></tbody></table></div></td></tr></tbody></table><hr><table width="100%">
+
+<tbody><tr bgcolor="#cccccc">
+	<th><b>Course</b></th><th><b>Title</b></th>
+	<th><b>Course Description and Schedule</b></th>
+	<th><b>General Education Details</b></th>
+
+</tr>
+
+<tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 1013   3.00</td>
+	<td width="24%">Applied Calculus I</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.0.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 1014   3.00</td>
+	<td width="24%">Applied Calculus II</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.1.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 1019   3.00</td>
+	<td width="24%">Discrete Mathematics for Computer Science</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.2.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 1021   3.00</td>
+	<td width="24%">Linear Algebra I</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.3.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 1025   3.00</td>
+	<td width="24%">Applied Linear Algebra</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.4.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 1028   3.00</td>
+	<td width="24%">Discrete Mathematics for Engineers</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.5.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 1090   3.00</td>
+	<td width="24%">Introduction to Logic for Computer Science</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.6.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 1131   3.00</td>
+	<td width="24%">Introduction to Statistics I</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.7.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 1190   3.00</td>
+	<td width="24%">Introduction to Sets and Logic</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.8.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 1200   3.00</td>
+	<td width="24%">Problems, Conjectures and Proofs</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.9.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 1300   3.00</td>
+	<td width="24%">Differential Calculus with Applications</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.10.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 1310   3.00</td>
+	<td width="24%">Integral Calculus with Applications</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.11.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 1505   6.00</td>
+	<td width="24%">Mathematics for the Life and Social Sciences</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.12.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 1510   6.00</td>
+	<td width="24%">Fundamentals of Mathematics</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.13.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 1520   3.00</td>
+	<td width="24%">Introduction to Calculus, with Vectors</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.14.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 1532   3.00</td>
+	<td width="24%">Statistics for Business and Society</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.15.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 1550   6.00</td>
+	<td width="24%">Mathematics with Management Applications</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.16.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 1581   3.00</td>
+	<td width="24%">Business Mathematics I</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.17.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GL/MATH 1610   3.00</td>
+	<td width="24%">Introduction to Statistical Methods I</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.18.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GL/MATH 1620   3.00</td>
+	<td width="24%">Introduction to Statistical Methods II </td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.19.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GL/MATH 1650   3.00</td>
+	<td width="24%">Modes of Mathematical Reasoning</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.20.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GL/MATH 1660   3.00</td>
+	<td width="24%">Linear Algebra I</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.21.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GL/MATH 1670   6.00</td>
+	<td width="24%">Fundamentals of Mathematics</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.22.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GL/MATH 1930   3.00</td>
+	<td width="24%">Calcul différentiel et intégral I   </td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.23.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GL/MATH 1930   3.00</td>
+	<td width="24%">Calculus I                 </td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.24.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GL/MATH 1940   3.00</td>
+	<td width="24%">Calculus II  </td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.25.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GL/MATH 1940   3.00</td>
+	<td width="24%">Calcul différentiel et intégral II   </td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.26.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 2001   3.00</td>
+	<td width="24%">Real Analysis l</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.27.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 2015   3.00</td>
+	<td width="24%">Applied Multivariate and Vector Calculus</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.28.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 2022   3.00</td>
+	<td width="24%">Linear Algebra II</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.29.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 2030   3.00</td>
+	<td width="24%">Elementary Probability</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.30.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 2041   3.00</td>
+	<td width="24%">Symbolic Computation Laboratory I</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.31.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 2131   3.00</td>
+	<td width="24%">Introduction to Statistics II</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.32.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 2200   3.00</td>
+	<td width="24%">Extended Problems, Conjectures, and Proofs</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.33.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 2270   3.00</td>
+	<td width="24%">Differential Equations</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.34.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 2271   3.00</td>
+	<td width="24%">Differential Equations for Scientists and Engineers</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.35.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 2280   3.00</td>
+	<td width="24%">The Mathematical Theory of Interest</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.36.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 2281   3.00</td>
+	<td width="24%">Models for Financial Economics</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.37.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 2310   3.00</td>
+	<td width="24%">Calculus of Several Variables with Applications</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.38.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 2565   3.00</td>
+	<td width="24%">Introduction to Applied Statistics</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.39.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GL/MATH 2660   3.00</td>
+	<td width="24%">Linear Algebra II</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.40.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GL/MATH 2670   6.00</td>
+	<td width="24%">Calcul des fonctions de plusieurs variables</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.41.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 2930   3.00</td>
+	<td width="24%">Introductory Probability and Statistics</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.42.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">ED/MATH 3000   3.00</td>
+	<td width="24%">Teaching Mathematics in the Intermediate Division</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.43.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 3001   3.00</td>
+	<td width="24%">Real Analysis II</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.44.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 3010   3.00</td>
+	<td width="24%">Vector Integral Calculus</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.45.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 3021   3.00</td>
+	<td width="24%">Algebra I</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.46.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 3022   3.00</td>
+	<td width="24%">Algebra II</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.47.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 3052   6.00</td>
+	<td width="24%">Exploring Geometries</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.48.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 3090   3.00</td>
+	<td width="24%">Computational Mathematics</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.49.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 3131   3.00</td>
+	<td width="24%">Mathematical Statistics I</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.50.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 3132   3.00</td>
+	<td width="24%">Mathematical Statistics II</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.51.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 3141   3.00</td>
+	<td width="24%">Introduction to Number Theory</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.52.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 3171   3.00</td>
+	<td width="24%">Linear Optimization</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.53.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 3172   3.00</td>
+	<td width="24%">Combinatorial Optimization</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.54.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 3241   3.00</td>
+	<td width="24%">Numerical Methods I</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.55.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 3242   3.00</td>
+	<td width="24%">Numerical Methods II</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.56.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 3250   3.00</td>
+	<td width="24%">Mathematical Biology</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.57.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 3260   3.00</td>
+	<td width="24%">Introduction to Graph Theory</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.58.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 3271   3.00</td>
+	<td width="24%">Partial Differential Equations</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.59.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 3280   3.00</td>
+	<td width="24%">Mathematics of Life Contingencies I</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.60.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 3281   3.00</td>
+	<td width="24%">Mathematics of Life Contingencies II</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.61.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 3330   3.00</td>
+	<td width="24%">Regression Analysis</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.62.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GL/MATH 3400   3.00</td>
+	<td width="24%">Differential Equations</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.63.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 3410   3.00</td>
+	<td width="24%">Complex Variables</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.64.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 3430   3.00</td>
+	<td width="24%">Sample Survey Design</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.65.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GL/MATH 3645   3.00</td>
+	<td width="24%">Optimization with Applications to Economics</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.66.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 4000   6.00</td>
+	<td width="24%">Individual Project</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.67.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 4000   3.00</td>
+	<td width="24%">Individual Project</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.68.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">ED/MATH 4000   3.00</td>
+	<td width="24%">Teaching Mathematics in the Intermediate-Senior Divisions  - A</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.69.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">ED/MATH 4001   3.00</td>
+	<td width="24%">Teaching Mathematics in the Intermediate-Senior Divisions - B</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.70.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 4011   3.00</td>
+	<td width="24%">Analysis III</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.71.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 4021   3.00</td>
+	<td width="24%">Algebra III</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.72.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 4060   3.00</td>
+	<td width="24%">Time Series and Spectral Analysis</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.73.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 4090   3.00</td>
+	<td width="24%">Mathematical Modelling</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.74.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 4100A  3.00</td>
+	<td width="24%">Topics in Mathematics Education: Theory and Practice</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.75.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 4120   3.00</td>
+	<td width="24%">Gas and Fluid Dynamics</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.76.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 4130K  3.00</td>
+	<td width="24%">Topics in Probability and Statistics: Survival Analysis</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.77.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 4130B  3.00</td>
+	<td width="24%">Topics in Probability and Statistics: Introduction to the Theory and Methods of Time Series Analysis</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.78.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 4141   3.00</td>
+	<td width="24%">Advanced Numerical Methods</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.79.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 4143   3.00</td>
+	<td width="24%">Scientific Computation for Finance Applications</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.80.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 4160   3.00</td>
+	<td width="24%">Combinatorial Mathematics</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.81.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 4161   3.00</td>
+	<td width="24%">Mathematics of Cryptography</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.82.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 4171   3.00</td>
+	<td width="24%">Nonlinear Optimization</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.83.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GL/MATH 4230   6.00</td>
+	<td width="24%">Analyse Complexe   </td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.84.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 4271   3.00</td>
+	<td width="24%">Dynamical Systems</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.85.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 4280   3.00</td>
+	<td width="24%">Risk Theory - Loss Models and Risk Measures</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.86.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 4281   3.00</td>
+	<td width="24%">Risk Theory - Ruin and Credibility</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.87.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 4300   6.00</td>
+	<td width="24%">Directed Readings</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.88.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 4300   3.00</td>
+	<td width="24%">Directed Readings</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.89.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 4330   3.00</td>
+	<td width="24%">Applied Categorical Data Analysis</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.90.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 4400   6.00</td>
+	<td width="24%">The History of Mathematics</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.91.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 4430   3.00</td>
+	<td width="24%">Stochastic Processes</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.92.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 4630   3.00</td>
+	<td width="24%">Applied Multivariate Statistical Analysis</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.93.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 4730   3.00</td>
+	<td width="24%">Experimental Design</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.94.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">SC/MATH 4931   3.00</td>
+	<td width="24%">Simulation and the Monte Carlo Methods</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.95.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">SC/MATH 4939   3.00</td>
+	<td width="24%">Statistical Data Analysis using SAS and R</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.96.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 5001   0.00</td>
+	<td width="24%">Survey Paper</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.97.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 5002   3.00</td>
+	<td width="24%">Directed Reading</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.98.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 5360   3.00</td>
+	<td width="24%">An introduction to Mathematical Modeling  Continuous Time &amp; Probability</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.99.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 5401   3.00</td>
+	<td width="24%">History of Mathematics for Teachers</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.100.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 5510   3.00</td>
+	<td width="24%">Topics in Mathematics for Teachers</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.101.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 5840   3.00</td>
+	<td width="24%">Mathematics Learning Environments</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.102.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 5900   3.00</td>
+	<td width="24%">Thinking about Teaching Mathematics</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.103.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 5920   3.00</td>
+	<td width="24%">Research in Mathematics Education</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.104.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 6001   0.00</td>
+	<td width="24%">Survey Paper                           </td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.105.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 6002   3.00</td>
+	<td width="24%">Directed Reading</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.106.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 6004   0.00</td>
+	<td width="24%">Mathematics Seminar                    </td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.107.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 6040   3.00</td>
+	<td width="24%">Set Theory                             </td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.108.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 6121   3.00</td>
+	<td width="24%">Applied Algebra</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.109.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 6122   3.00</td>
+	<td width="24%">Algebra II</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.110.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 6162   3.00</td>
+	<td width="24%">Selected Topics in Algebraic Combinatorics: Hopf algebras and representations</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.111.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 6280   3.00</td>
+	<td width="24%">Measure Theory                         </td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.112.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 6340   3.00</td>
+	<td width="24%">Ordinary Differential Equations</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.113.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 6350   3.00</td>
+	<td width="24%">Partial Differential Equations         </td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.114.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 6461   3.00</td>
+	<td width="24%">Functional Analysis I                  </td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.115.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 6540   3.00</td>
+	<td width="24%">Topology I</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.116.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 6602   3.00</td>
+	<td width="24%">Stochastic Processes</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.117.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 6620   3.00</td>
+	<td width="24%">Mathematical Statistics</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.118.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 6621   3.00</td>
+	<td width="24%">Advanced Mathematical Statistics</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.119.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 6622   3.00</td>
+	<td width="24%">Generalized Linear Models</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.120.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 6627   3.00</td>
+	<td width="24%">Practicum for Statistical Consulting</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.121.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 6630   3.00</td>
+	<td width="24%">Applied Statistics I</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.122.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 6632   3.00</td>
+	<td width="24%">Multivariate Statistics</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.123.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 6633   3.00</td>
+	<td width="24%">Theory and Methods of Time Series Analysis</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.124.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 6641   3.00</td>
+	<td width="24%">Survival Analysis</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.125.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 6644   3.00</td>
+	<td width="24%">Statistical Learning</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.126.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 6650   3.00</td>
+	<td width="24%">Introduction to Statistical Data Science</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.127.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 6651   3.00</td>
+	<td width="24%">Advanced Numerical Methods</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.128.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 6652   3.00</td>
+	<td width="24%">Numerical Solutions to Differential Equations</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.129.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 6904   3.00</td>
+	<td width="24%">Modern Optimization</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.130.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 6910   3.00</td>
+	<td width="24%">Stochastic Calculus In Finance</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.131.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 6911   3.00</td>
+	<td width="24%">Numerical Methods in Finance</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.132.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#e6e6e6">
+	<td width="16%">GS/MATH 6931   3.00</td>
+	<td width="24%">Mathematical Modeling</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.133.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr><tr bgcolor="#ffffff">
+	<td width="16%">GS/MATH 6937   3.00</td>
+	<td width="24%">Practicum in Industrial &amp; Applied Mathematics</td>
+	<td width="30%"><a href="/Apps/WebObjects/cdm.woa/2/wo/yDF3mP0JhwB1xYC1Sob3Ng/2.3.10.8.3.134.0.5">Fall/Winter 2018-2019 Course Schedule</a></td>
+	<td width="30%"></td>
+
+</tr>
+</tbody></table>
+</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+      <td bgcolor="#dddddd" width="10%"><img src="/WebObjects/cdm.woa/Contents/WebServerResources/y.gif" width="170" height="90"></td>
+      <td valign="bottom">
+	      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+           <tr>
+            <td><hr></td>
+           </tr>
+            <tr>
+            <td class="smallbodytext">
+            <div align="right">York Course Website Version 2.1.14 (Dec 6, 2018)<br>Copyright 2005-2019 © York University<br>
+            <br>
+            </div>
+            </td>
+            </tr>
+           </tbody>
+           </table>
+      </td>
+    </tr>
+	<tr>
+		 <td class="smallbodytext" bgcolor="#dddddd" width="10%">
+   	    	    <div align="center">[PU12]
+					<br>
+		            <br>
+	           </div>
+            </td>
+		<td></td>
+	</tr>
+</tbody></table>
+
+</body></html>
